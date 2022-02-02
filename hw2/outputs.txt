@@ -1,0 +1,7 @@
+
+Longest:  3 7 9 11       size =  4
+Longest:  2 5 6 8 16       size =  5
+Longest:  10 48 89 90       size =  4
+Longest:  1 2 3 4 5       size =  5
+Longest:  7 15 26 35 85       size =  5
+Longest:  3 4 100      size =  3
